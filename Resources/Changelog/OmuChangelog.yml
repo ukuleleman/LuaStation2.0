@@ -1208,3 +1208,9 @@ Entries:
       message: Antag spawn rates
   id: 142
   time: '2025-11-24T20:32:02.0000000+00:00'
+- author: Kirisune
+  changes:
+    - type: Tweak
+      message: Squished chaplain's arrythmic knife to a more reasonable size.
+  id: 143
+  time: '2025-11-24T20:33:11.0000000+00:00'
