@@ -1236,3 +1236,9 @@ Entries:
       message: rules smite attempt 2
   id: 146
   time: '2025-11-29T06:15:30.0000000+00:00'
+- author: Gab
+  changes:
+    - type: Add
+      message: Added some new drip for BSOs from Starlight.
+  id: 147
+  time: '2025-11-29T06:48:14.0000000+00:00'
