@@ -1266,3 +1266,9 @@ Entries:
         being vaporised and people will listen!
   id: 151
   time: '2025-11-30T06:48:34.0000000+00:00'
+- author: Gab
+  changes:
+    - type: Fix
+      message: The assault belt loadout on BSO is not longer a Senior BSO drip. My bad.
+  id: 152
+  time: '2025-11-30T15:18:02.0000000+00:00'
