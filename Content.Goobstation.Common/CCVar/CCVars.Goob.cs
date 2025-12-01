@@ -645,6 +645,12 @@ public sealed partial class GoobCVars
         CVarDef.Create("lifeline.rejuvenate", false, CVar.SERVERONLY);
 
     /// <summary>
+    /// A multiplier for bloodloss damage and heal.
+    /// </summary>
+    public static readonly CVarDef<float> BleedMultiplier =
+        CVarDef.Create("medical.bloodloss_multiplier", 4.0f, CVar.SERVER);
+
+    /// <summary>
     /// Should the bluespace lifeline reset mind on teleport.
     /// </summary>
     public static readonly CVarDef<bool> LifeLineResetMind =
