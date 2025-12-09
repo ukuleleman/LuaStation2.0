@@ -1381,3 +1381,9 @@ Entries:
       message: Smile is now a bit more tanky.
   id: 167
   time: '2025-12-09T13:08:16.0000000+00:00'
+- author: dootythefrooty
+  changes:
+    - type: Add
+      message: MORTIS voice for IPCs
+  id: 168
+  time: '2025-12-09T13:09:50.0000000+00:00'
