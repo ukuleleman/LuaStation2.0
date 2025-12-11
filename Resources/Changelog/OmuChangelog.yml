@@ -1436,3 +1436,9 @@ Entries:
         get heretic's and changelings at appropriate pop.
   id: 173
   time: '2025-12-11T12:04:56.0000000+00:00'
+- author: Scalebeard
+  changes:
+    - type: Tweak
+      message: Updated pirate accent 🏴‍☠️
+  id: 174
+  time: '2025-12-11T12:06:44.0000000+00:00'
