@@ -64,7 +64,7 @@ language-Canilunzt-description =
 language-Moffic-name = Moffic
 language-Moffic-description = The language of the mothpeople borders on complete unintelligibility.
 
-language-RobotTalk-name = RobotTalk
+language-RobotTalk-name = Gibberlink # omu edit - it sounds cooler and is an actual langauge developed for generative AI models
 language-RobotTalk-description = A language consisting of harsh binary chirps, whistles, hisses, and whines. Organic tongues cannot speak it without aid from special translators.
 
 language-Calcic-name = Calcic
