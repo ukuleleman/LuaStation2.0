@@ -148,8 +148,8 @@
   # Omu end
   - type: PointLight
     enabled: false
-    radius: 3
-    energy: 2
+    radius: 5
+    energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
     netsync: false # Omu, this needs to be false for our fix to work.
