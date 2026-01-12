@@ -195,7 +195,6 @@ namespace Content.IntegrationTests.Tests
             "/Maps/_Goobstation/Shuttles/retort_janitorial.yml",
             "/Maps/_Goobstation/Shuttles/retort_cburn.yml",
             "/Maps/_Omu/glacier.yml",
-            "/Maps/_Goobstation/prison.yml"
         };
 
         private static readonly string[] GameMaps =
@@ -235,7 +234,6 @@ namespace Content.IntegrationTests.Tests
             "Origin",
             "OriginHighPop",  // Not in pool
             "Packed",
-            "Prison",
             "Reach",
             "Saltern",
             "Serpentcrest",
