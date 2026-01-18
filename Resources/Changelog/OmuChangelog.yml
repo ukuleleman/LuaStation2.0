@@ -1837,3 +1837,11 @@ Entries:
       message: sec winter coats protect your arms now
   id: 228
   time: '2026-01-18T20:39:34.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Tweak
+      message: >-
+        Making syrup involves less diona murder now, simply boil sugar and water
+        on a hotplate
+  id: 229
+  time: '2026-01-18T20:42:06.0000000+00:00'
