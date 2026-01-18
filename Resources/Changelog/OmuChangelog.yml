@@ -1805,3 +1805,17 @@ Entries:
       message: This time midround blob is dead.
   id: 224
   time: '2026-01-18T05:53:44.0000000+00:00'
+- author: VictorJob, RadsammyT
+  changes:
+    - type: Add
+      message: >-
+        (PORT) A Golden MK-58 may now be selected as a round-start Job Trinket
+        for the security department. Requires 70 hours of security.
+    - type: Tweak
+      message: >-
+        The standard duty case that security officers obtain round-start is now
+        a loadout item as a Job Trinket. Please note that the Job Trinket
+        category will automatically select the standard duty case if not already
+        specified, so no action should be taken.
+  id: 225
+  time: '2026-01-18T06:36:15.0000000+00:00'
