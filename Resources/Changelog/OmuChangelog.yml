@@ -1915,3 +1915,9 @@ Entries:
       message: Delta now has shaft miners
   id: 239
   time: '2026-02-05T20:26:52.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Remove
+      message: Clown and Mime are no longer exempt to self-antag rules.
+  id: 240
+  time: '2026-02-06T20:57:44.0000000+00:00'
