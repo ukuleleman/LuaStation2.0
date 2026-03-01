@@ -13,7 +13,7 @@
 #    heldPrefix: icon
 #  - type: Healing
 #    damageContainers:
-      - SiliconRadiation
+#      - SiliconRadiation
 #    damage:
 #      types:
 #        Heat: -0 # use cables for thiisss i tried  to remove this part but it broke my game lol
