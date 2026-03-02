@@ -152,3 +152,9 @@
   storage:
     back:
     - GoldenPlunger
+
+- type: loadout
+  id: MobMoproach
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: SeniorJanitorial
